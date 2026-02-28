@@ -1,10 +1,10 @@
-# Michael Ellis 👋
+# Michael Ellis
 
 [![Hackathons](https://img.shields.io/badge/Major%20League%20Hacking-Member-blue?style=flat-square)](https://mlh.io)
 [![Followers](https://img.shields.io/github/followers/Twilii?label=Followers&style=flat-square)](https://github.com/Twilii)
 
 ## About
-Hey, I'm Michael. I'm a student and Operations Support Assistant at the **University of Toronto**. I focus on building efficient Python applications, web experiments, and exploring peer-to-peer networking.
+👋 Hey, I'm Michael. I'm a student and Operations Support Assistant at the **University of Toronto**. I focus on building efficient Python applications, web experiments, and exploring peer-to-peer networking.
 
 - 📍 Location: Mississauga, ON
 - 🎓 Education: University of Toronto (Technology and coding, linguistics, and game studies)
